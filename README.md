@@ -24,3 +24,17 @@ This is a simple tax calculator implemented using HTML, CSS, JAVASCRIPT. It calc
     - If user has not entered this value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
 - Error icons should not be visible in the form by default.
 - Clicking on submit should show a modal which would show the final values based on above calculations.
+
+### How to run
+To run this application locally, follow below steps:-
+1. Download the above HTML, CSS, JAVASCRIPT files to your computer.
+2. Open these files in any code editor of your preference. Now if you have GO LIVE extension in your code editor you can click on this and it will be live on browser.
+3. Another option is you can right click on HTML file and select "Open with" and choose any browser of your choice.
+4. Now you can interact with the application and have fun with this tax calculator
+
+### How to use the Tax Calculator
+ - Input the gross income, extra income, age group and total deductions.
+ - Click on the submit button it will calculate the overall income and display the result on the screen.
+ - If any error in the input field is there it will be shown to you and you have to correct it.
+
+### Test Cases
