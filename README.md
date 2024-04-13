@@ -69,6 +69,15 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/5c77e87f-e05a-4945-88f9-d0d1c07067cd" width="450" height="500">
 
+#### Case 6: If Gross Income + Extra Income - Total Deductions is > 8 lakhs then income tax is applicable based on age group. So overall income will be calculated accordingly. (USING DECIMAL VALUE)
+1. Age < 40 (Taxed at 30%)
+
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/7f6d39bc-fac7-449c-ab92-b9afadd47c06" width="400" height="500">
+
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/bc0aaecb-ce8c-4334-861e-dafe9b263914" width="450" height="500">
+
+3. Age ≥ 40 & < 60 (Taxed at 40%)
+4. Age ≥ 60 (Taxed at 10%)
 
 
 
