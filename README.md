@@ -57,7 +57,7 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/50fcb1c7-959a-4cce-91d2-77615be0a551" width="400" height="500">
 
-<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/eeebbfc0-1b33-4ea4-98c1-eb6028657cc4" width="450" height="500">
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/3db30faa-7f21-4d10-964f-3d2624ecdd0f" width="450" height="500">
 
 #### Case 4: When all other field are filled properly but age group is left empty then on submit error icon will be show in age group field which show a message "Input field is mandatory"
 
