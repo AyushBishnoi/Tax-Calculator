@@ -30,7 +30,7 @@ To run this application locally, follow below steps:-
 1. Download the above HTML, CSS, JAVASCRIPT files to your computer.
 2. Open these files in any code editor of your preference. Now if you have GO LIVE extension in your code editor you can click on this and it will be live on browser.
 3. Another option is you can right click on HTML file and select "Open with" and choose any browser of your choice.
-4. Now you can interact with the application and have fun with this tax calculator
+4. Now you can interact with the application and have fun with this tax calculator.
 
 ### How to use the Tax Calculator
  - Input the gross income, extra income, age group and total deductions.
@@ -39,11 +39,11 @@ To run this application locally, follow below steps:-
 
 ### Test Cases
 
-#### Case 1: Tooltip is shown on hovering over the question mark icons
+#### Case 1: Tooltip is shown on hovering over the question mark icons.
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/5a2f8595-d800-4bbe-bb85-1ef19a33a851" width="450" height="500">
 
-#### Case 2: When try to submit without any input it will shows Error icon and when we hover it it will show a message "Input field is mandatory"
+#### Case 2: When try to submit without any input it will shows Error icon and when we hover it it will show a message "Input field is mandatory".
 Image 1: Showing Error icon when we click on Submit. Error icon is shown only in Gross income input field and Age input field. It will consider extra income and applicable deductions equal to 0 if not provided by the user to calculate the tax.</br>
 Image 2: Showing Error message "Input field is mandatory" when we hover over error icon (!).
 
@@ -51,7 +51,7 @@ Image 2: Showing Error message "Input field is mandatory" when we hover over err
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/23649c47-cd05-4a71-82c4-7064fd43409d" width="450" height="500">
 
-#### Case 3: When we try to write any characters in the Gross Income, Extra Income and Deductions input field instead of number. Then Error icon will appear with a message "Please enter numbers only"
+#### Case 3: When we try to write any characters in the Gross Income, Extra Income and Deductions input field instead of number. Then Error icon will appear with a message "Please enter numbers only".
 Image 1: Show Error icon in the Gross income, Extra income and deductions input field. </br>
 Image 2: When we hover over the error icon it will show a message "Please enter numbers only".
 
@@ -59,7 +59,7 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/3db30faa-7f21-4d10-964f-3d2624ecdd0f" width="450" height="500">
 
-#### Case 4: When all other field are filled properly but age group is left empty then on submit error icon will be show in age group field which show a message "Input field is mandatory"
+#### Case 4: When all other field are filled properly but age group is left empty then on submit error icon will be show in age group field which show a message "Input field is mandatory".
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/288e1732-c532-4537-9442-c57202cbc839" width="450" height="500">
 
