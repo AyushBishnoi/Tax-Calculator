@@ -25,7 +25,7 @@ This is a simple tax calculator implemented using HTML, CSS, JAVASCRIPT. It calc
 - Error icons should not be visible in the form by default.
 - Clicking on submit should show a modal which would show the final values based on above calculations.
 
-### How to run
+### How to run Tax Calculator
 To run this application locally, follow below steps:-
 1. Download the above HTML, CSS, JAVASCRIPT files to your computer.
 2. Open these files in any code editor of your preference. Now if you have GO LIVE extension in your code editor you can click on this and it will be live on browser.
@@ -38,3 +38,7 @@ To run this application locally, follow below steps:-
  - If any error in the input field is there it will be shown to you and you have to correct it.
 
 ### Test Cases
+
+Case 1: Tooltip is shown on hovering over the question mark icons
+
+![image](https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/d8fa2b80-f335-48e6-bcb7-b09747850152)
