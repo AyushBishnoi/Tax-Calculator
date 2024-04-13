@@ -40,5 +40,7 @@ To run this application locally, follow below steps:-
 ### Test Cases
 
 Case 1: Tooltip is shown on hovering over the question mark icons
-![image](https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/c7b03f0b-c0a1-4493-86d4-54a4d0507950 | height=200)
+
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/c7b03f0b-c0a1-4493-86d4-54a4d0507950" width="100" height="100">
+
 
