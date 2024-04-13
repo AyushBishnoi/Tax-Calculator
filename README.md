@@ -51,6 +51,13 @@ Image 2: Showing Error message "Input field is mandatory" when we hover over err
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/23649c47-cd05-4a71-82c4-7064fd43409d" width="450" height="500">
 
+#### Case 3: When we try to write any characters in the Gross Income, Extra Income and Deductions input field instead of number. Then Error icon will appear with a message "Please enter numbers only"
+Image 1: Show Error icon in the Gross income, Extra income and deductions input field. </br>
+Image 2: When we hover over the error icon it will show a message "Please enter numbers only"
+
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/c3ce29f1-af5f-48b7-b8c9-37b01046fc37" width="400" height="500">
+
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/eeebbfc0-1b33-4ea4-98c1-eb6028657cc4" width="400" height="500">
 
 
 
