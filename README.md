@@ -86,10 +86,10 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/459482a4-03dc-4ed1-b4e0-3e78a0700702" width="400" height="500">
 
-<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/677a069a-3ec2-4afd-8e4d-ab554744afe7" width="450" height="500">
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/677a069a-3ec2-4afd-8e4d-ab554744afe7" width="450" height="495">
 
 #### Case 7: We can calculate overall income after tax deduction in decimal value also.
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/6963fede-4c50-4ef3-a65f-df7aa75e9442" width="400" height="500">
 
-<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/3984ffb0-d37e-49d4-80ac-6d74cd542732" width="450" height="500">
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/3984ffb0-d37e-49d4-80ac-6d74cd542732" width="450" height="495">
