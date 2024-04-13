@@ -44,6 +44,8 @@ To run this application locally, follow below steps:-
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/2eb85e8c-b139-4110-91d9-f5aea4ef6219" width="450" height="500">
 
 #### Case 2: When try to submit without any input it will shows Error icon and when we hover it it will show a message "Input field is mandatory"
+Image 1: Showing Error icon when we click on Submit. Error icon is showing only in Gross income input field and Age input field because these 2 things are necessary to calculate the Tax.
+Image 2: Showing Error message "Input field is mandatory" when we hover over error icon (!).
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/5234f33b-5f61-4f4e-9fd8-efe49fc6cacd" width="400" height="500">
 
