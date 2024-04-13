@@ -80,7 +80,7 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/4ef190c6-0c67-4ae1-909c-62c4bfe2d483" width="400" height="500">
 
-<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/fe8cb8db-d0b0-40c1-a655-75e3b5d2c77a" width="450" height="500">
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/fe8cb8db-d0b0-40c1-a655-75e3b5d2c77a" width="450" height="495">
 
 3. Age ≥ 60 (Taxed at 10%)
 
