@@ -57,7 +57,7 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/c3ce29f1-af5f-48b7-b8c9-37b01046fc37" width="400" height="500">
 
-<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/eeebbfc0-1b33-4ea4-98c1-eb6028657cc4" width="400" height="500">
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/eeebbfc0-1b33-4ea4-98c1-eb6028657cc4" width="450" height="500">
 
 
 
