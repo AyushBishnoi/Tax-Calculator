@@ -90,7 +90,6 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 #### Case 7: We can calculate overall income after tax deduction in decimal value also.
 
-<img src="" width="400" height="500">
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/6963fede-4c50-4ef3-a65f-df7aa75e9442" width="400" height="500">
 
-
-<img src="" width="450" height="500">
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/3984ffb0-d37e-49d4-80ac-6d74cd542732" width="450" height="500">
