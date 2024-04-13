@@ -65,8 +65,10 @@ Image 2: When we hover over the error icon it will show a message "Please enter 
 
 #### Case 5: If Gross Income + Extra Income - Total Deductions is ≤ 8 lakhs then no tax is applicable.
 
-<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/2990e3a9-244b-4d9e-9582-0f44b7ae70f3" width="450" height="500">
- 
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/2990e3a9-244b-4d9e-9582-0f44b7ae70f3" width="400" height="500">
+
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/5c77e87f-e05a-4945-88f9-d0d1c07067cd" width="400" height="500">
+
 
 
 
