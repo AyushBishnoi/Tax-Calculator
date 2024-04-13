@@ -44,7 +44,7 @@ To run this application locally, follow below steps:-
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/2eb85e8c-b139-4110-91d9-f5aea4ef6219" width="450" height="500">
 
 #### Case 2: When try to submit without any input it will shows Error icon and when we hover it it will show a message "Input field is mandatory"
-Image 1: Showing Error icon when we click on Submit. Error icon is showing only in Gross income input field and Age input field because these 2 things are necessary to calculate the Tax.</br>
+Image 1: Showing Error icon when we click on Submit. Error icon is shown only in Gross income input field and Age input field. It will consider extra income and applicable deductions equal to 0 if not provided by the user to calculate the tax.</br>
 Image 2: Showing Error message "Input field is mandatory" when we hover over error icon (!).
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/5234f33b-5f61-4f4e-9fd8-efe49fc6cacd" width="400" height="500">
@@ -53,12 +53,15 @@ Image 2: Showing Error message "Input field is mandatory" when we hover over err
 
 #### Case 3: When we try to write any characters in the Gross Income, Extra Income and Deductions input field instead of number. Then Error icon will appear with a message "Please enter numbers only"
 Image 1: Show Error icon in the Gross income, Extra income and deductions input field. </br>
-Image 2: When we hover over the error icon it will show a message "Please enter numbers only"
+Image 2: When we hover over the error icon it will show a message "Please enter numbers only".
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/c3ce29f1-af5f-48b7-b8c9-37b01046fc37" width="400" height="500">
 
 <img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/eeebbfc0-1b33-4ea4-98c1-eb6028657cc4" width="450" height="500">
 
+#### Case 4: When all other field are filled properly but age group is left empty then on submit error icon will be show in age group field which show a message "Input field is mandatory"
+
+<img src="https://github.com/AyushBishnoi/Tax-Calculator/assets/123483082/288e1732-c532-4537-9442-c57202cbc839" width="450" height="500">
 
 
 
